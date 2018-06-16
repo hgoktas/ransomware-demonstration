@@ -1,0 +1,18 @@
+c:\users\hgoktas\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\hgoktas\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\hgoktas\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\hgoktas\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\hgoktas\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\hgoktas\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\hgoktas\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hgoktas\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Hgoktas\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hgoktas\Desktop\c# lesson\c# Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Hgoktas\Desktop\c# lesson\c# Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Hgoktas\Desktop\c# lesson\c# Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Hgoktas\Desktop\c# lesson\c# Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Ransomware Demonstration.exe.config
+C:\Users\Hgoktas\Desktop\c# lesson\c# Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Ransomware Demonstration.exe
+C:\Users\Hgoktas\Desktop\c# lesson\c# Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Ransomware Demonstration.pdb
+C:\Users\Hgoktas\Desktop\c# lesson\c# Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\RansomwareDemonstration.Properties.Resources.resources
+C:\Users\Hgoktas\Desktop\c# lesson\c# Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Ransomware Demonstration.exe
+C:\Users\Hgoktas\Desktop\c# lesson\c# Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Ransomware Demonstration.pdb

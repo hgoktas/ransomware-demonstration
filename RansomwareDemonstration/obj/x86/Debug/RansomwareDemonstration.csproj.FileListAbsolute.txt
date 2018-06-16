@@ -1,0 +1,3 @@
+C:\Users\Hgoktas\Desktop\c# lesson\c# Project\WindowsFormsApplication1\RansomwareDemonstration\bin\Debug\Ransomware Demonstration.exe.config
+C:\Users\Hgoktas\Desktop\c# lesson\c# Project\WindowsFormsApplication1\RansomwareDemonstration\obj\x86\Debug\Ransomware Demonstration.exe
+C:\Users\Hgoktas\Desktop\c# lesson\c# Project\WindowsFormsApplication1\RansomwareDemonstration\obj\x86\Debug\Ransomware Demonstration.pdb
